@@ -1,0 +1,16 @@
+//INPUT
+#include<stdio.h>
+int main(){
+    int a,b;
+    printf("Enter Dividend: ");
+    scanf("%d", &a);
+    printf("Enter the Divisor: ");
+    scanf("%d", &b);
+    int c=a%b;
+    printf("The remainder of two numbers is : %d", c);
+    return 0;
+}
+//OUTPUT
+Enter Dividend: 40
+Enter the Divisor: 20
+The remainder of two numbers is : 0
