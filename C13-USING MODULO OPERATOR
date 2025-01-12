@@ -14,3 +14,7 @@ int main(){
 Enter Dividend: 40
 Enter the Divisor: 20
 The remainder of two numbers is : 0
+Enter Dividend: 20
+Enter the Divisor: 40
+The remainder of two numbers is : 20
+
